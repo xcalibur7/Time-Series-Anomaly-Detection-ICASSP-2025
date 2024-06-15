@@ -9,8 +9,7 @@ This paper presents an analysis of a large-scale,
 high-dimensional industrial dataset containing over 2 million
 data points collected over several months. The dataset includes
 more than 200 failures of various types, each resulting from
-complex causes. Utilizing state-of-the-art unsupervised multi-
-variate anomaly detection algorithms, a system was developed
+complex causes. Utilizing state-of-the-art unsupervised multivariate anomaly detection algorithms, a system was developed
 that predicts failures several minutes in advance, introducing
 a new evaluation metric termed lead time. This system also
 identifies the location and potential causes of these failures.
@@ -20,10 +19,8 @@ To address this issue, a visual reasoning framework was created
 to reduce false positives by analyzing motifs and discords
 in the top-N signals contributing to the anomaly. We find
 that the human-in-the-loop approach enhances the precision
-and F1-score of multivariate algorithms by leveraging human
-judgment for final decision-making. After several weeks of de-
-ployment, the system has been delivering highly accurate real-
-time alerts, resulting in enhanced productivity and efficiency
+and F1 score of multivariate algorithms by leveraging human
+judgment for final decision-making. After several weeks of deployment, the system has been delivering highly accurate real-time alerts, resulting in enhanced productivity and efficiency
 
 Here we will describe our experiments and results.
 
