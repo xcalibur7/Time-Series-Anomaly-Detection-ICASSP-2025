@@ -30,13 +30,13 @@ Here we will describe our experiments and results.
 1. Clone the repo
 
     ```sh
-    git clone https://github.com/xcalibur7/icdm24_tsad.git
+    git clone https://github.com/xcalibur7/Time-Series-Anomaly-Detection-ICASSP-2025.git
     ```
 
 2. Navigate to the project directory
 
     ```sh
-    cd icdm24_tsad
+    cd Time-Series-Anomaly-Detection-ICASSP-2025
     ```
 
 3. Install dependencies
@@ -46,7 +46,7 @@ Here we will describe our experiments and results.
     ```
 
 
-Project Link: [https://github.com/xcalibur7/icdm24_tsad](https://github.com/xcalibur7/icdm24_tsad)
+Project Link: [https://github.com/xcalibur7/Time-Series-Anomaly-Detection-ICASSP-2025](https://github.com/xcalibur7/Time-Series-Anomaly-Detection-ICASSP-2025)
 
 ## Experiments
 
