@@ -1,5 +1,6 @@
-# ICDM2024: TSAD Paper
-Supportive repository for a paper submitted for review in ICDM 2024.
+# ICASSP 2025: Multivariate Time Series Data Mining for Failure Prediction & Root Cause Analysis
+
+Supportive repository for the following paper accepted in ICASSP 2025.
 
 **Paper Title:** Multivariate Time Series Data Mining for Failure Prediction \& Root Cause Analysis
 
